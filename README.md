@@ -10,10 +10,11 @@
 
 
 
-🔭 I’m continuously improving on my skills and abilities with everything `AI` - ``Machine Learning``, ``Deep Learning``, ``Computer Vision``, ``Reinforcement Learning``. Except ``NLP`` <br>
-🌱 I’m currently learning ``robotics`` :robot: from the Kevin Lynch's book [**Modern Robotics**](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) <br>
+🔭 I’m continuously improving on my skills and abilities with everything `AI` - ``Machine Learning``, ``Deep Learning``, ``Computer Vision``, ``Reinforcement Learning``, ``Robotics``. Except ``Recommender System`` <br>
+🌱 I’m currently learning ``robotics`` :robot: from the Kevin Lynch's [**Modern Robotics**](http://hades.mech.northwestern.edu/index.php/Modern_Robotics), and solving differential equations from **Simmons'** book <br>
 :writing_hand: I’m looking forward to a Research / PhD position.:crossed_fingers: <br>
 📚: Read my notes on DL / CV / RL here : [**k-karna.github.io/notes**](https://k-karna.github.io/notes.html) <br>
+:national_park: [**Tableau vizzies**](https://public.tableau.com/app/profile/konark.karna#!/) <br>
 
 ---
 
@@ -36,15 +37,4 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-100000?style=for-the-badge&logo=MATLAB&logoColor=white&labelColor=black&color=170C0C)
 
-</div>
-
-
----
-
-
-<div align = 'center'>
-  
-[![Konark Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-karna)](https://github.com/k-karna/github-readme-streak-stats)
-[![Konark Language](https://github-readme-stats.vercel.app/api/top-langs/?username=k-karna)](https://github-readme-stats.vercel.app/api/top-langs/)
-  
 </div>
