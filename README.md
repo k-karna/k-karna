@@ -1,5 +1,5 @@
 <h3 align = "center"> Hi there! 👋 </h3>
-<p align = 'center'>I am Konark Karna, a Data Scientist</p>
+<p align = 'center'>I am Konark Karna, a Data Scientist🇮🇳 :uk:</p>
 <div align="center">
 
   <a href="https://linkedin.com/in/k-karna">![example1](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -10,7 +10,7 @@
 
 
 
-🔭 I’m continuously improving on my skills and abilities with everything `AI` - ``Machine Learning``, ``Deep Learning``, ``Self-Supervised Learning``, ``(Deep) Reinforcement Learning``, ``Human Machine Interaction (HMI)`` <br> 
+🔭 I’m continuously improving on my skills and abilities with everything `AI` - ``Machine Learning``, ``Deep Learning``, ``Self-Supervised Learning``, ``(Deep) Reinforcement Learning``, ``Human Machine Interaction (HMI)`` ,  ``LLMs``<br> 
 🌱 I’m currently learning ``prbabilistic machine learning`` :robot: from the Kevin Murphy's book <br>
 :writing_hand: I’m looking forward to a Research / PhD position.:crossed_fingers: <br>
 📚: Read my notes on DL / CV / RL here : [**k-karna.github.io/notes**](https://k-karna.github.io/notes.html) <br>
@@ -38,3 +38,12 @@
 
 
 </div>
+
+---
+Image Processing for Engineering and Science specialization [Programming Exercises](https://github.com/k-karna/img_processing_computer_vision/tree/main/Image%20Processing%20Specialization)<br>
+Computer Vision for Engineering and Science Specialization [Pogramming Exercises](https://github.com/k-karna/img_processing_computer_vision/tree/main/Computer%20Vision%20Specialization)<br>
+Tensorflow 2 for Deep Learning Specialization [Programming Exercises](https://github.com/k-karna/tensorflow2_dl)<br>
+Reinforcement Learning Specialization [Programming Exercises](https://github.com/k-karna/reinforcement_learning)<br>
+
+---
+<h3>Artificial Intelligence Mathematical Background</h3>
