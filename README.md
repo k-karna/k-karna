@@ -1,5 +1,5 @@
 <h3 align = "left"> Hi there! 👋 </h3>
-<p align = 'left'>I am <b>Konark Karna</b>, a Data Scientist🇮🇳 :uk:</p>
+<p align = 'left'>I am <b>Konark Karna</b>, a Data Scientist 🇮🇳 :uk:</p>
 <div align="left">
 
   <a href="https://linkedin.com/in/k-karna">![example1](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -18,7 +18,7 @@
 ---
 
 
-<h4> :technologist: Tech Skills :flight_departure:</h4>
+<h3> :technologist: Tech Skills :flight_departure:</h3>
 
 
 | Programming Language | Libraries/Framework    | Others   |
@@ -30,8 +30,8 @@
 
 
 ---
-<h4>Artificial Intelligence Mathematical Background</h4>
+<h3>Artificial Intelligence Mathematical Background</h3>
 
-- Linear Algebra [Solutions of Linear Algebra Step Step - Kuldeep Singh](https://github.com/k-karna/linalg)<br>
+- Linear Algebra [Solutions of Linear Algebra Step by Step - Kuldeep Singh](https://github.com/k-karna/linalg)<br>
 - Multivariable Calculus [Solutions of Multivariable Calculus - Don Shimamoto](https://github.com/k-karna/multivariable_calculus)<br>
 
