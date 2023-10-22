@@ -9,7 +9,6 @@
 </div>
 
 
-
 🔭 I’m continuously improving on my skills and abilities with everything `AI` - ``Machine Learning``, ``Deep Learning``, ``Self-Supervised Learning``, ``(Deep) Reinforcement Learning``, ``Human Machine Interaction (HMI)`` ,  ``LLMs``<br> 
 🌱 I’m currently learning ``prbabilistic machine learning`` :robot: from the Kevin Murphy's book <br>
 :writing_hand: I’m looking forward to a Research / PhD position.:crossed_fingers: <br>
@@ -19,7 +18,7 @@
 ---
 
 
-<h4> Tech Skills :flight_departure:</h4>
+<h4> :technologist: Tech Skills :flight_departure:</h4>
 
 
 | Programming Language | Libraries/Framework    | Others   |
