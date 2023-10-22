@@ -1,6 +1,6 @@
-<h3 align = "center"> Hi there! 👋 </h3>
-<p align = 'center'>I am Konark Karna, a Data Scientist🇮🇳 :uk:</p>
-<div align="center">
+<h3 align = "left"> Hi there! 👋 </h3>
+<p align = 'left'>I am <b>Konark Karna</b>, a Data Scientist🇮🇳 :uk:</p>
+<div align="left">
 
   <a href="https://linkedin.com/in/k-karna">![example1](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://twitter.com/konarkkarna">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
@@ -35,13 +35,3 @@
 - Linear Algebra [Solutions of Linear Algebra Step Step - Kuldeep Singh](https://github.com/k-karna/linalg)<br>
 - Multivariable Calculus [Solutions of Multivariable Calculus - Don Shimamoto](https://github.com/k-karna/multivariable_calculus)<br>
 
-
----
-
-<h4>Coursera Specializations</h4>
-
-
-Image Processing for Engineering and Science specialization [Programming Exercises](https://github.com/k-karna/img_processing_computer_vision/tree/main/Image%20Processing%20Specialization)<br>
-Computer Vision for Engineering and Science Specialization [Pogramming Exercises](https://github.com/k-karna/img_processing_computer_vision/tree/main/Computer%20Vision%20Specialization)<br>
-Tensorflow 2 for Deep Learning Specialization [Programming Exercises](https://github.com/k-karna/tensorflow2_dl)<br>
-Reinforcement Learning Specialization [Programming Exercises](https://github.com/k-karna/reinforcement_learning)<br>
