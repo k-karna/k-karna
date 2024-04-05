@@ -9,7 +9,7 @@
 </div>
 
 
-🔭 I’m continuously improving on my skills and abilities with everything `AI` - ``Machine Learning``, ``Deep Learning``, ``Self-Supervised Learning``, ``(Deep) Reinforcement Learning``, ``Human Machine Interaction (HMI)`` ,  ``LLMs``<br> 
+🔭 I’m continuously improving on my knowledge base and skills with everything `AI` - ``Machine Learning``, ``Deep Learning``, ``Computer Vision``, ``(Deep) Reinforcement Learning``, ``Human Machine Interaction (HMI)`` <br> 
 🌱 I’m currently learning ``prbabilistic machine learning`` :robot: from the Kevin Murphy's book <br>
 :writing_hand: I’m looking forward to a Research / PhD position.:crossed_fingers: <br>
 📚: Read my notes on DL / CV / RL here : [**k-karna.github.io/notes**](https://k-karna.github.io/notes.html) <br>
