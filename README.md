@@ -9,10 +9,10 @@
 </div>
 
 
-🔭 I’m continuously improving on my knowledge base and skills with everything `AI` - ``Machine Learning``, ``Deep Learning``, ``Computer Vision``, ``(Deep) Reinforcement Learning``, ``Human Machine Interaction (HMI)`` <br> 
-🌱 I’m currently learning ``prbabilistic machine learning`` :robot: from the Kevin Murphy's book <br>
+🔭 I’m continuously improving on my knowledge base and skills with everything `AI` -  ``Deep Learning``, ``Computer Vision``, ``(Deep) Reinforcement Learning``, ``Self-Supervised Learning`` or ``Human-Machine Interaction``<br> 
+🌱 I’m currently learning ``Bayesian Reasoning and Machine Learning`` :robot: from the David Barber's book <br>
 :writing_hand: I’m looking forward to a Research / PhD position.:crossed_fingers: <br>
-📚: Read my notes on DL / CV / RL here : [**k-karna.github.io/notes**](https://k-karna.github.io/notes.html) <br>
+📚: Read my notes on DL / SSL / CV / RL here : [**k-karna.github.io/notes**](https://k-karna.github.io/notes.html) <br>
 :national_park: [**Tableau vizzies**](https://public.tableau.com/app/profile/konark.karna#!/) <br>
 
 ---
